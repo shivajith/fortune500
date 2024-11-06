@@ -1,1 +1,1 @@
-# fortune500
+fortune500 plots using matplotlib, seaborn
